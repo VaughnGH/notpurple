@@ -1,5 +1,5 @@
 notpurple
 =====
-The mighty and powerful sourcecode behind notpurple.com
+The mighty and powerful source code behind notpurple.com
 
 ####JOIN THE FIGHT
